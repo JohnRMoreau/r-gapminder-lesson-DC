@@ -62,7 +62,7 @@ To most effectively use these materials, please make sure to install everything
 
 
 
-
+<!--
 {% if page.software == "Python" %}
 {% include pythonSetup.html %}
 {% elsif page.software == "Spreadsheets" %}
@@ -72,5 +72,5 @@ To most effectively use these materials, please make sure to install everything
 {% else %}
 {% include anySetup.html %}
 {% endif %}
-
+-->
 <p><strong>Twitter</strong>: @datacarpentry
